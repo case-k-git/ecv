@@ -3,7 +3,7 @@
 
 |key|value|
 |----|----|
-|Nname|KEISUKE TANIGUCHI|
+|Name|KEISUKE TANIGUCHI|
 |Residence|Tamaku, Kanagawa|
 |Ability|Data analysis and development of data analysis infrastructure and proposal skill|
 |Technical Qualifications|Google Cloud Certified Professional Data Engineer / Oracle Certified Java Programmer Silver SE 8 / Basic Information Processing Engineer Exam(基本情報処理技術者試験)|
@@ -26,7 +26,7 @@ I have been working not only on my own work but also on the overall issues and s
 | MySQL | PostgreSQL | BigQuery | Bigtable | Redis |
 
 ### GCP
-| BigQuery | Bigtable | Dataflow(Apache Beam) | Dataproc(Spark) | Composer(Airflow) | GCS | Cloud Pub/Sub | Cloud Functions | Cloud Scheduler | GCE | GAE | ML Engine | AutoML | Cloud SQL | Stackdriver Monitoring |
+| BigQuery | Bigtable | Dataflow(Apache Beam) | Dataproc(Spark) | Cloud Composer(Airflow) | GCS | Cloud Pub/Sub | Cloud Functions | Cloud Scheduler | GCE | GAE | ML Engine | AutoML | Cloud SQL | Stackdriver Monitoring |
 
 ## Job Career Overview 
 - Signage ad delivery and planning system using location data. Responsible for system planning and development、data analysis、PoC direction (June 2017-present)
@@ -37,21 +37,21 @@ I have been working not only on my own work but also on the overall issues and s
 Responsible for data analysis, PoC direction, and development of data analysis infrastructure in Signage ad delivery and planning system using location data
 
 #### 【Responsible Duties】
-Resident in R&D department of group company. Engaged in data analysis、PoC direction. After that, returned to the DAC and was responsible for algorithm improvement、data evaluation, data base technology survey and selection, and data pipeline automation.
+Resident in R&D department of group company. Engaged in data analysis、PoC direction. After that, returned to my company and was responsible for algorithm improvement、data evaluation, data base technology survey and selection, and data pipeline automation.
 
 ##### [Data Scientist / June 2017-May 2019]
-- Create location data segment/Create sex age population estimation logic (Jupyter/BigQuery)
-- Location data segment creation/external data survey and usability evaluation, proposal (Jupyter/ BigQuery)
-- Devising an abnormal value judgment process for advertising inventory with location data(Jupyter/BigQuery)
-- Document classification/corporate strategy prediction(Jupyter/natural language processing)
+- Create location data segment / Create sex age population estimation logic (Jupyter / BigQuery)
+- Location data segment creation / external data survey and usability evaluation, proposal (Jupyter / BigQuery)
+- Devising an abnormal value judgment process for advertising inventory with location data(Jupyter / BigQuery)
+- Document classification / corporate strategy prediction(Jupyter / natural language processing)
 
-#####[System Engineer Direction / June 2017-May 2019]
+##### [System Engineer & director / June 2017-May 2019]
 - PoC direction / Signage ad delivery using location data Targeting
 Connect
 - Requirement definition / Connect with external system
 - Planning of signage advertising products using location data
 - Location data segment creation / external data survey and usability evaluation, proposal
-#####[Data Engineer / May 2019-Present]
+##### [Data Engineer / May 2019-Present]
 - Location data segment creation / sex age estimation algorithm improvement (Jupyter / BigQuery)
 - Location data segment creation / external data source survey and usability evaluation, proposal (Jupyter / BigQuery)
 - Survey, selection and proposal of analysis infrastructure that meets requirements (BigQuery / Bigtable / Redshift / DynamoDB)
@@ -59,10 +59,10 @@ Connect
 - Development of  data pipeline (AWS Data Pipeline / Dataflow / BigQuery / Cloud Functions / GCS)
 - Dataflow survey and language selection
 - Improved query performance and reduced costs (data structure / query modification / BigQuery / table partitioning)
-- Planning system screen development (React)
+- Planning system view and function development (React)
 - Survey, and examination of map drawing performance improvement plan(Carto / BigQuery)
 
-#####[Project Manager / November 2019-Present]
+##### [Project Manager / November 2019-Present]
 - PoC direction / signage programmatic location data delivery (RTB / PMP)
 - Requirement definition / Connect with external and internal systems
 - Management (3 members)
@@ -91,6 +91,6 @@ Development of a WordPress plug-in that acquires and displays the sea level. Dev
 #### 【Responsible Duties】
 - Requirement definition
 - Architecture design
-- survey, selection and proposal of data sources
+- Survey, selection and proposal of data sources
 - Survey, selection and proposal of graph drawing tool
 - Development (PHP / MySQL / JavaScript / Highcharts)
